@@ -8,6 +8,5 @@ This project aims to design, develop, and implement advanced control algorithms 
 | Task 2, learn to deploy SLAM algorithms like Cartographer on Gazebo simulation for synchronized mapping and positioning | 1 Week |  |
 | Task 3, learn to deploy Movebase and other trajectory planning and navigation algorithms on Gazebo simulation | 1 Week |  |
 | Task 4, deploy Cartographer and Movebase on real quadruped robots to achieve synchronized mapping and positioning, and path point planning. | 1 Week | Year 2 students can get the FURP certificate after finishing Task 4 |
-| Task5, Deploy any 2.5D or 3D trajectory generation algorithms to real quadruped robots.
- | 2 Week | Year 3 students can get the FURP certificate after finishing Task 5 |
+| Task5, Deploy any 2.5D or 3D trajectory generation algorithms to real quadruped robots.| 2 Week | Year 3 students can get the FURP certificate after finishing Task 5 ||
 | Task 6, Compare 2.5 D and 3D algorithms with 2D trajectory generation algorithms | 1 Week |  |
